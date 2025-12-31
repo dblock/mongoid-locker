@@ -4,6 +4,7 @@
 
 * [#109](https://github.com/mongoid/mongoid-locker/pull/109): Migrate Danger to use danger-pr-comment workflow - [@dblock](https://github.com/dblock).
 * [#109](https://github.com/mongoid/mongoid-locker/pull/109): Remove support for Ruby 2.x - [@dblock](https://github.com/dblock).
+* [#109](https://github.com/mongoid/mongoid-locker/pull/109): Add support for Ruby 4.0 - [@dblock](https://github.com/dblock).
 * Your contribution here.
 
 ### 2.2.0 (2025-06-22)
