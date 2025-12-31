@@ -27,8 +27,11 @@ end
 group :development, :test do
   gem 'pry-byebug', platforms: :mri
 
+  gem 'bigdecimal'
+  gem 'danger', require: false
+  gem 'danger-changelog', require: false
+  gem 'danger-pr-comment', require: false
   gem 'mongoid-compatibility'
-  gem 'mongoid-danger', '~> 0.2.0'
   gem 'mongoid-history'
   gem 'rspec', '~> 3.9'
   gem 'rubocop', '0.81.0'

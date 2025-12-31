@@ -3,6 +3,7 @@
 ENV['RACK_ENV'] = 'test'
 
 require 'logger' # Required for compatibility with activesupport 7
+require 'bigdecimal'
 
 if ENV['COVERAGE']
   require 'simplecov'
